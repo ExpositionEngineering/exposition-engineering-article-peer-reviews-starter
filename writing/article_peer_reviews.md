@@ -4,7 +4,7 @@
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-Note: You must retype the sentence here in order to digitally sign your pledge.
+TODO: You must retype the sentence here in order to digitally sign your pledge.
 
 
 
@@ -30,11 +30,11 @@ following list.
 
 ## 📓  Details About the Peer Review Process
 
-Note: Answer the following questions about your experiences during the peer review process.
+TODO: Answer the following questions about your experiences during the peer review process.
 
 ### Q1: Overall, how would you describe the writing that you peer reviewed?
 
-Note: Provide a list of keywords that describe the content that you peer reviewed.
+TODO: Provide a list of keywords that describe the content that you peer reviewed.
 
 - Authentic
 - Engaging
@@ -42,7 +42,7 @@ Note: Provide a list of keywords that describe the content that you peer reviewe
 
 ### Q2: What was the most positive aspect of the written content that you peer reviewed?
 
-Note: Provide a list of keywords that describe the positive aspects of the written content.
+TODO: Provide a list of keywords that describe the positive aspects of the written content.
 
 - Authentic
 - Engaging
@@ -50,7 +50,7 @@ Note: Provide a list of keywords that describe the positive aspects of the writt
 
 ### Q3: What was the most negative aspect of the written content that you peer reviewed?
 
-Note: Provide a list of keywords that describe the negative aspects of the written content.
+TODO: Provide a list of keywords that describe the negative aspects of the written content.
 
 - Authentic
 - Engaging
@@ -58,7 +58,7 @@ Note: Provide a list of keywords that describe the negative aspects of the writt
 
 ### Q4: What advice would you give to future FS 102 students who write papers in the field of exposition engineering?
 
-Note: Provide a list of three points of advice that you would give to future FS 102 students.
+TODO: Provide a list of three points of advice that you would give to future FS 102 students.
 
 - Authentic
 - Engaging
@@ -66,7 +66,7 @@ Note: Provide a list of three points of advice that you would give to future FS 
 
 ### Q5: After completing the peer review process what feedback did you receive on your own article?
 
-Note: Provide a list of three points of advice that you received about your own article.
+TODO: Provide a list of three points of advice that you received about your own article.
 
 - Authentic
 - Engaging
@@ -74,29 +74,29 @@ Note: Provide a list of three points of advice that you received about your own 
 
 ### Q6: Please pick one example of feedback from the previous question and explain how you addressed it.
 
-Note: Provide a detailed explanation of how you addressed the feedback that you
+TODO: Provide a detailed explanation of how you addressed the feedback that you
 received. Your description should clearly explain how you revised your writing
 and give a concrete example of an improvement that you made to your article.
 One way to do this is to share a "before and after snapshot" of your writing.
 
 ### Q7: After reflecting on your experiences in FS 101 and FS 102, how do you think that you have improved as a writer?
 
-Note: Provide a detailed explanation of how you have improved as a writer.
+TODO: Provide a detailed explanation of how you have improved as a writer.
 
 ### Q8: After reflecting on your experiences in FS 101 and FS 102, how do you think that you have improved as a peer reviewer?
 
-Note: Provide a detailed explanation of how you have improved as a peer reviewer.
+TODO: Provide a detailed explanation of how you have improved as a peer reviewer.
 
 ### Q9: How well did your experiences in FS 101 prepare you for completing work in your FS 102 class?
 
-Note: Provide a detailed explanation of how your experiences in FS 101 prepared
+TODO: Provide a detailed explanation of how your experiences in FS 101 prepared
 you for completing work in your FS 102 class. Whether or not you think that
 your FS 101 course prepared you for the work in your FS 102 course, please
 provide a detailed explanation in order to support your assertion.
 
 ### Q10: How will writing play a central role in your chosen career and/or graduate school plans? Did the FS 101 or FS 102 classes help you to improve your writing skills for your envisioned type of writing? Why or why not?
 
-Note: Provide a detailed explanation of how writing will play a role in what
+TODO: Provide a detailed explanation of how writing will play a role in what
 you do after graduating from Allegheny College. Your response to this question
 should give a practical example of a type of writing that you imagine doing
 after graduation. Your response should also explain whether or not the FS 101
